@@ -43,3 +43,5 @@
   11. If you still need help, don't hesitate to DM me in my personal discord [rasputin135](discord://-/users/490627367526465558)
       
   12. Have a good fun with this Discord Project and don't hesitate to tell me new ideas !
+
+[GitHub Pages](https://pages.github.com/)
