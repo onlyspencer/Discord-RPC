@@ -20,7 +20,7 @@
   5. Return on the tab named "**General Informations**", click on "**copy App ID**" and paste it in your code in the 
 
 
-## Do you need help ?
+## Do you still need help ?
 
 --> First, if you don't know how to create a new Application in the [Discord Developper Portal](https://discord.com/developers/applications)
 
