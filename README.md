@@ -36,12 +36,9 @@
         ```
   8. Go on "**Rish Presence**", "**Art Assets**" and click on "**Add Images**"
   9. Be carefull because your images will be in **.jpg**, **.png** or **.jpeg** and it doesn't have to exceed 1024x1024      knowing that the minimum is 512x512.  
-  10. Next, return on Visual Studio Code and complete the different fields. You can help you with the [Visualizer] 
-      (https://discord.com/developers/applications/1195815445811450088/rich-presence/visualizer)
+  10. Next, return on Visual Studio Code and complete the different fields. You can help you with the [Visualizer](https://discord.com/developers/applications/1195815445811450088/rich-presence/visualizer)
       And for the images, you just have to enter the name that you gave when you had uploaded your image in Discord 
       Developper Portal.
   11. If you still need help, don't hesitate to DM me in my personal discord [rasputin135](discord://-/users/490627367526465558)
       
   12. Have a good fun with this Discord Project and don't hesitate to tell me new ideas !
-
-[GitHub Pages](https://pages.github.com/)
