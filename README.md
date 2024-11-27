@@ -1,9 +1,9 @@
-# DISCORD RPC #1
+# DISCORD RPC #2
 
 
 ## Hello Guys !!
 
---> In this project, I just wanted to make a customizable Discord Rish Presence
+--> In this project, I just wanted to make a more simple customizable Discord Rish Presence
 --> To enable this project on your Discord Account, you have to follow some instructions ;
         
 ## First, Download
@@ -31,8 +31,8 @@
   5. Next, go on "**General Informations**" and click on "**Copy**" below "**Application ID**"
   6. Before all, you have to download [Visual Studio Code](https://code.visualstudio.com/download) and [Node.js](https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi) to continue.
   7. Download the code, open it on VSC and **Paste it** in your code:
-        ```javascript
-        const clientId = 'Your Application ID';
+        ```ini
+        ClientID=Your Application ID
         ```
   8. Go on "**Rish Presence**", "**Art Assets**" and click on "**Add Images**"
   9. Be carefull because your images will be in **.jpg**, **.png** or **.jpeg** and it doesn't have to exceed 1024x1024      knowing that the minimum is 512x512.  
@@ -42,3 +42,4 @@
   11. If you still need help, don't hesitate to DM me in my personal discord [rasputin135](discord://-/users/490627367526465558)
       
   12. Have a good fun with this Discord Project and don't hesitate to tell me new ideas !
+  13. // I prefer to specify that, to create this repository, I got inspired any videos and documentations, so It's not me who created the project, I simply explain it more and a better way. !!
